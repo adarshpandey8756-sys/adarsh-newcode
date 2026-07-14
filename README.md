@@ -1,4 +1,4 @@
 # adarsh-newcode
 this is my first repository
 <br>
-Author - adarsh pandey
+Author - adarsh pandey(pandeyjiS)
